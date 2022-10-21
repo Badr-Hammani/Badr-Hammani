@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Badr-Hammani
+- 👀 I’m interested in automatation
+- 🌱 I’m currently learning python
+- 📫 How to reach me: 
+-            ig: badr_hammani_1
+-            email: badrhammani2017@gmail.com
